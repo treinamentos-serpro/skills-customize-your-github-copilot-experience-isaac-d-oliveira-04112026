@@ -76,6 +76,13 @@
           "type": "default"
         }
       ]
+    },
+    {
+      "id": "automated-testing-fastapi",
+      "title": "Automated Testing for FastAPI",
+      "description": "Test a FastAPI task API with pytest and TestClient.",
+      "path": "assignments/automated-testing-fastapi",
+      "dueDate": "2026-11-11"
     }
   ]
 }
